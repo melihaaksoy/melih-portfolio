@@ -81,7 +81,7 @@ export const SITE_CONTENT: SiteContent = {
         "https://github.com/melihaaksoy/embedded-systems-internship-microsonic",
       linkSource:
         "https://github.com/melihaaksoy/embedded-systems-internship-microsonic",
-      image: "/spotifu.png",
+      image: "/board.png",
     },
     {
       name: "Stock Market Price Prediction",
@@ -91,7 +91,7 @@ export const SITE_CONTENT: SiteContent = {
         "https://github.com/melihaaksoy/stock-market-price-prediction",
       linkSource:
         "https://github.com/melihaaksoy/stock-market-price-prediction",
-      image: "/shopify-clon.png",
+      image: "/graph.png",
     },
     {
       name: "JWST Flask Gallery",
@@ -99,7 +99,7 @@ export const SITE_CONTENT: SiteContent = {
         "Flask-based web application for exploring and visualizing James Webb Space Telescope imagery.",
       linkPreview: "https://github.com/melihaaksoy/jwst-flask-gallery",
       linkSource: "https://github.com/melihaaksoy/jwst-flask-gallery",
-      image: "/clone-ig.png",
+      image: "/james.png",
     },
   ],
   about: {
