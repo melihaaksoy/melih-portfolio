@@ -6,7 +6,7 @@ author: "Melih Aksoy",
 description:
 "Electrical and Electronics Engineer based in Essen, Germany with experience in software development, embedded systems and machine learning.",
 lang: "en",
-siteLogo: "/alejandro-small.jpg",
+siteLogo: "/green_card_photo_no_shadow.jpeg",
 navLinks: [
 { text: "Experience", href: "#experience" },
 { text: "Projects", href: "#projects" },
@@ -98,7 +98,7 @@ Hi, I'm Melih Aksoy, an Electrical and Electronics Engineer based in Essen, Germ
 
   I am interested in software engineering, automation, IoT and embedded technologies, and I am open to remote and hybrid opportunities.
 `,
-image: "/alejandro-big.jpg",
+image: "/green_card_photo_no_shadow.jpeg",
 ```
 
 },
