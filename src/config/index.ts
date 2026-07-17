@@ -102,7 +102,6 @@ export const SITE_CONTENT: SiteContent = {
       linkSource:
         "https://github.com/melihaaksoy/stock-market-price-prediction",
       image: "/graph.png",
-      object-fit: contain;
     },
     {
       name: "JWST Flask Gallery",
