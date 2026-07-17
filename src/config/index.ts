@@ -84,6 +84,16 @@ export const SITE_CONTENT: SiteContent = {
       image: "/board.png",
     },
     {
+      name: "Auvra",
+      summary:
+        "An AI-powered dating application focused on compatibility and meaningful connections. Built with Flutter, Firebase, Google Cloud Vertex AI, and Gemini.",
+      linkPreview:
+        "https://github.com/melihaaksoy/embedded-systems-internship-microsonic",
+      linkSource:
+        "https://github.com/melihaaksoy/embedded-systems-internship-microsonic",
+      image: "/board.png",
+    },
+    {
       name: "Stock Market Price Prediction",
       summary:
         "Machine learning project for stock market forecasting using historical Tesla stock data and LSTM neural networks.",
